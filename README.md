@@ -1,2 +1,1 @@
-# NVM_Emulator_ZCU102
-Three memory schemes - Address-Based, Iterative Write, and Racetrack Memory - have been implemented on the ZCU102 platform, each accompanied with an integrated wear-out simulator.
+Three memory schemes have been implemented on the ZCU102 platform: Address-Based, Iterative Write, and Racetrack Memory. Each scheme is complemented by a detailed schematic diagram, illustrating the connection topology to facilitate comprehension and implementation. Additionally, a wear-out simulator accompanies each scheme, enabling block-wise tracking over both single and consecutive write operations.
